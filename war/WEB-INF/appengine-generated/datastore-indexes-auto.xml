@@ -1,0 +1,11 @@
+<!-- Indices written at Mon, 23 Jun 2014 16:07:48 ICT -->
+
+<datastore-indexes>
+
+    <!-- Used 1 time in query history -->
+    <datastore-index kind="BetMatch" ancestor="false" source="auto">
+        <property name="groupId" direction="asc"/>
+        <property name="date" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>
